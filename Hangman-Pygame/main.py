@@ -146,7 +146,7 @@ while True:
     # Draws lines based on length of answer
     line(-140, 230)
     if len(answer) == 3:
-        line(-20, 230)
+        line(-20, 230)^^^^^^^^^
         line(100, 230)
     elif len(answer) == 4:
         line(-20, 230)
